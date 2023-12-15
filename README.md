@@ -1,2 +1,2 @@
-# programlama
+# programming
 Everything about programming
