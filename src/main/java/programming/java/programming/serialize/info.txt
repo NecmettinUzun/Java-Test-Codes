@@ -1,0 +1,4 @@
+Serialization:
+	serialization is the conversion of a Java object into static stream of bytes, which can then save to a database or transfer over network
+Static fields belongs to a class are not serialized, also we can use the keyword *transient* to ignore class fields during serialization
+ 
