@@ -1,4 +1,4 @@
-package programming.serialize.properties;
+package serialize.properties;
 
 import java.io.File;
 import java.io.FileInputStream;
