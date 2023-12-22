@@ -1,4 +1,4 @@
-package programming.java.programming;
+package programming;
 
 /**
  * Hello world!
