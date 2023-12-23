@@ -24,4 +24,5 @@
 	<pbcast.GMS print_local_addr="true" join_timeout="3000"
 
 		view_bundling="true" /> -->
+		
 </config>
